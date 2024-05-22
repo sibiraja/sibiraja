@@ -1,4 +1,4 @@
-## [Hi there 👋](https://sibiraja.github.io/)
+## [https://sibiraja.github.io/](https://sibiraja.github.io/)
 
 <!--
 **sibiraja/sibiraja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
